@@ -1,0 +1,9 @@
+.login{
+    background-image: url(../images/960x0.webp);
+    height:100vh ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.css-19opgx6-MuiFormControlLabel-root .MuiFormControlLabel-label{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+.css-ksze9p-MuiPaper-root-MuiAppBar-root {
+    margin-bottom: 0!important;
+}
+.same{
+    font-size: 25px;
+}
+header{
+    margin: 0 !important;
+}

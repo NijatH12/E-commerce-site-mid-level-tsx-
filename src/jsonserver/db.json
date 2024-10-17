@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "14578501",
+      "username": "jn",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "68695609",
+      "username": "kj",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "64354431",
+      "username": "jd",
+      "password": "2",
+      "balance": 1000
+    },
+    {
+      "id": "68519704",
+      "username": "vfd",
+      "password": "fv",
+      "balance": 1000
+    },
+    {
+      "id": "60046205",
+      "username": "fdv",
+      "password": "fd",
+      "balance": 1000
+    },
+    {
+      "id": "80009248",
+      "username": "n",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "59732135",
+      "username": "n",
+      "password": "1",
+      "balance": 1000
+    }
+  ]
+}

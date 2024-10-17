@@ -1,0 +1,22 @@
+.register{
+    background-image: url(../images/960x0.webp);
+    height:100vh ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+.form{
+ display: inline-block;
+ padding: 50px;
+ position: absolute;
+ right: 200px;
+ top: 150px;
+}
+.eye{
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: end;
+}
